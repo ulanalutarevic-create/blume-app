@@ -1,0 +1,98 @@
+[
+  {
+    "id": "c543d937-3018-423f-b757-5ff6ae1a22a1",
+    "name": "blume_dump_2026-10-20T05-34-29-695Z.json",
+    "storedAs": "blume_dump_2026-10-20T05-34-29-695Z.json",
+    "size": 1943,
+    "storage": "gdrive",
+    "gdriveId": "gdrive_d0baac22",
+    "uploadedBy": "admin@mtp.by",
+    "createdAt": "2026-10-20T05:34:29.695Z",
+    "rows": 8,
+    "kind": "dump"
+  },
+  {
+    "id": "27d6d5f0-6c05-4548-aded-06c68120bc97",
+    "name": "blume_dump_2026-10-20T05-32-10-271Z.json",
+    "storedAs": "blume_dump_2026-10-20T05-32-10-271Z.json",
+    "size": 2177,
+    "storage": "gdrive",
+    "gdriveId": "gdrive_c1251d7f",
+    "uploadedBy": "admin@mtp.by",
+    "createdAt": "2026-10-20T05:32:10.271Z",
+    "rows": 9,
+    "kind": "dump"
+  },
+  {
+    "id": "25ddb8c5-8f3b-43c3-9746-b346a42f1279",
+    "name": "blume_dump_2026-10-20T05-31-43-004Z.json",
+    "storedAs": "blume_dump_2026-10-20T05-31-43-004Z.json",
+    "size": 2177,
+    "storage": "gdrive",
+    "gdriveId": "gdrive_d0e912b2",
+    "uploadedBy": "admin@mtp.by",
+    "createdAt": "2026-10-20T05:31:43.004Z",
+    "rows": 9,
+    "kind": "dump"
+  },
+  {
+    "id": "bebd66b4-9479-4f78-8fc8-3d2665741117",
+    "name": "sample-plants.xlsx",
+    "storedAs": "1791287236970_sample-plants.xlsx",
+    "size": 16445,
+    "storage": "local",
+    "uploadedBy": "1237999@mtp.by",
+    "createdAt": "2026-10-06T11:47:16.976Z",
+    "rows": 3
+  },
+  {
+    "id": "84db8788-d637-4ad6-8a1b-ed343f16a079",
+    "name": "sample-plants.xlsx",
+    "storedAs": "1791281601958_sample-plants.xlsx",
+    "size": 16445,
+    "storage": "local",
+    "uploadedBy": "admin@mtp.by",
+    "createdAt": "2026-10-06T10:13:21.963Z",
+    "rows": 3
+  },
+  {
+    "id": "687393a9-3907-420c-9bff-b05a680b012b",
+    "name": "sample-plants.xlsx",
+    "storedAs": "1791280605712_sample-plants.xlsx",
+    "size": 16445,
+    "storage": "local",
+    "uploadedBy": "admin@mtp.by",
+    "createdAt": "2026-10-06T09:56:45.717Z",
+    "rows": 3
+  },
+  {
+    "id": "1c826c61-28dd-4cf2-a2a7-c2e274791f6a",
+    "name": "sample-plants.xlsx",
+    "storedAs": "1791279934320_sample-plants.xlsx",
+    "size": 16445,
+    "storage": "local",
+    "uploadedBy": "admin@mtp.by",
+    "createdAt": "2026-10-06T09:45:34.325Z",
+    "rows": 3
+  },
+  {
+    "id": "e59c3d9b-6068-4757-a4af-52106db1af78",
+    "name": "sample-plants.xlsx",
+    "storedAs": "1791279887788_sample-plants.xlsx",
+    "size": 16445,
+    "storage": "local",
+    "uploadedBy": "admin@mtp.by",
+    "createdAt": "2026-10-06T09:44:47.802Z",
+    "rows": 3
+  },
+  {
+    "id": "e254a616-1e36-4944-91f2-c67a8dca7242",
+    "name": "sample-plants.xlsx",
+    "storedAs": "1791279629213_sample-plants.xlsx",
+    "size": 16445,
+    "storage": "local",
+    "uploadedBy": "admin@mtp.by",
+    "createdAt": "2026-10-06T09:40:29.219Z",
+    "rows": 3
+  }
+]

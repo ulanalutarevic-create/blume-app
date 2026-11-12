@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  /* как .cabinet-card: белый фон, рамка 2px, скругление 1.5rem */
+  .tw-profile-card {
+    @apply flex w-full flex-col gap-4
+      transition duration-200 ease-out;
+  }
+
+  .tw-profile-body {
+    @apply flex w-full items-start gap-4;
+  }
+
+  /* как .review-card__avatar на лендинге */
+  .tw-profile-avatar {
+    display: grid;
+    place-items: center;
+    width: 3rem;
+    height: 3rem;
+    flex-shrink: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 50%;
+    background: var(--brown, #1e1616);
+    color: var(--cream, #fdfbf0);
+    font-family: "Bagel Fat One", "Nunito", system-ui, sans-serif;
+    font-size: 1.35rem;
+    line-height: 1;
+    text-transform: lowercase;
+    cursor: pointer;
+    overflow: hidden;
+    transition: opacity 0.2s ease;
+  }
+
+  .tw-profile-avatar:hover {
+    opacity: 0.88;
+  }
+
+  .tw-profile-avatar:focus-visible {
+    outline: 2px solid var(--brown, #1e1616);
+    outline-offset: 3px;
+  }
+
+  .tw-profile-avatar__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .tw-profile-avatar__letter {
+    color: inherit;
+    font: inherit;
+    line-height: 1;
+    text-transform: lowercase;
+  }
+
+  .tw-profile-meta {
+    @apply flex min-w-0 flex-1 flex-col items-start space-y-1 text-left;
+  }
+
+  .tw-profile-actions {
+    @apply flex w-full flex-wrap gap-3;
+  }
+}
